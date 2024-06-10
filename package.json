@@ -1,11 +1,15 @@
 {
-  "name": "progetto-typescript-di-vincenzo-sorrentino-2",
+  "name": "progetto-typescript-di-vincenzo-sorrentino",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Bonus for Startup",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "start": "node dist/app.js"
   },
-  "author": "",
+  "author": "Vincenzo Sorrentino",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
