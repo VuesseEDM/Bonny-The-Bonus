@@ -22,11 +22,10 @@ Il progetto utilizza **TypeScript** per definire interfacce e classi che rappres
 Puoi clonare il repository utilizzando il comando:
 
 ```bash
-git clone https://github.com/VuesseEDM/Bonny-Incentive.git
+git clone https://github.com/VuesseEDM/Bonny-The-Bonus.git 
 
 Dopo aver clonato il repository, esegui il comando:
 
-- bash
 
 - npm install
 
@@ -35,8 +34,8 @@ Dopo aver clonato il repository, esegui il comando:
 
 Questo installerà tutte le dipendenze necessarie. 
 
-
 ```
+
 
 
 
