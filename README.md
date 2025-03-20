@@ -48,7 +48,7 @@ If you wish to contribute to this project, feel free to open a pull request.
 🌐 **Contact me**  
 ---
 
-- **LinkedIn**  : https://www.linkedin.com/in/vincenzo-sorrentino-2496052b6
+- **LinkedIn**  : https://www.linkedin.com/in/vincenzo-sorrentino-front-end-developer/
 
 - **Instagram**  : https://www.instagram.com/vuesse_edm/
 
